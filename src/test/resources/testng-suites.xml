@@ -5,6 +5,7 @@
     <test name="Tests" >
         <classes>
             <class name="com.virtu.coding.FibonacciTest" />
+            <class name="com.virtu.coding.HexscoreTest" />
         </classes>
     </test>
 </suite>
