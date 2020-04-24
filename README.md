@@ -1,4 +1,4 @@
-__Virtu Financial Codility Take Home__
+__Codility Take Home__
 
 * [Fibonacci](Documentation/Fibonacci.md)
 
