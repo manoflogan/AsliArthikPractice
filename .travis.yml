@@ -1,0 +1,14 @@
+language: java
+dist: trusty
+jdk:
+    - oraclejdk8
+    - openjdk8
+
+notifications:
+  email: false
+
+before_script:
+    - chmod +x gradlew
+
+script:
+    - ./gradlew clean build
