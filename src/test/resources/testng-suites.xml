@@ -6,6 +6,7 @@
         <classes>
             <class name="com.virtu.coding.FibonacciTest" />
             <class name="com.virtu.coding.HexscoreTest" />
+            <class name="com.virtu.coding.BoxWeightTest" />
         </classes>
     </test>
 </suite>

@@ -1,3 +1,3 @@
 ![Hexscore] [1]
 
-[1]: ../assets/Hexscore.png "Hexscore Problm"
+[1]: ../assets/Hexscore.png "Hexscore Problem"
