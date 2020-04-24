@@ -8,6 +8,7 @@
             <class name="com.virtu.coding.HexscoreTest" />
             <class name="com.virtu.coding.BoxWeightTest" />
             <class name="com.virtu.coding.ScoreTest" />
+            <class name="com.virtu.coding.IdenticalSubstringsTest" />
         </classes>
     </test>
 </suite>
