@@ -1,3 +1,1 @@
-![Fibonacci] [1]
-
-[1]: ../assets/Fibonacci.png "Fibonacci Problm"
+![Fibonacci](../assets/Fibonacci.png "Fibonacci Problem")
